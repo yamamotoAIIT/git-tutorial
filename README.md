@@ -3,3 +3,4 @@
   - feature-A(branch fearure-Aでadd,commitしてからcheckout master)
   - fix-B
   - feature-C
+  - feature-D
